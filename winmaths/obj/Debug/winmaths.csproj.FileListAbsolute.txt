@@ -1,0 +1,9 @@
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\bin\Debug\winmaths.exe.config
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.csprojResolveAssemblyReference.cache
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.Form1.resources
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.Properties.Resources.resources
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.csproj.GenerateResource.Cache
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\bin\Debug\winmaths.exe
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\bin\Debug\winmaths.pdb
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.exe
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winmaths\winmaths\obj\Debug\winmaths.pdb
